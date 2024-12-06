@@ -1,5 +1,6 @@
 body{
     font-family: Roboto, sans-serif;
+    background-color: #ffffffa5;
 }
 
 
@@ -15,12 +16,13 @@ body{
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
     padding: 0 30px;
     box-sizing: border-box;
-    background-color: white;
+    background-color: #ffffffa5;
 }
 
 #logo{
     max-height: 140px;
-    margin-bottom: 20px; 
+    margin-bottom: 20px;
+    color: #d9dbd8;
 }
 
 nav{
@@ -34,7 +36,7 @@ nav ul{
     list-style: none;
     padding: 0;
     margin: 0;
-    gap: 20px;
+    gap: 300px;
 }
 
 .h-ul li{
@@ -174,14 +176,16 @@ nav ul li a:hover {
     .bt-s2i{
         padding: 20px;
         font-size: 20px;
+        background-color: rgb(25, 228, 144);
     }
 
     .bt-fcc{
         font-size: 50px;
+        background-color: black;
     }
 
     .bt-s2i, .bt-fcc{
-        border-radius: 50px;
+        border-radius: 50px;   
     }
 
     
@@ -218,7 +222,7 @@ nav ul li a:hover {
     
     .h1-cv {
         text-align: center;
-        padding: 2rem;
+        padding: 5rem;
         font-size: 2rem; 
     }
     
@@ -258,9 +262,7 @@ nav ul li a:hover {
     
     /* page4 contacts*/
 
-    .body-ct{
-        background-color: #f9f9f9;
-    }
+   
   
     .form-container {
         background-color: #ffffff;
@@ -343,7 +345,7 @@ nav ul li a:hover {
         }
     
         nav ul {
-            flex-direction: column;
+            flex-direction: row;
             gap: 10px;
         }
     
@@ -366,6 +368,7 @@ nav ul li a:hover {
     
         .wp-bio {
             font-size: 18px;
+            
         }
     }
     
@@ -411,5 +414,14 @@ nav ul li a:hover {
     
         .bt-form {
             font-size: 0.9rem;
+        }
+        .my-bio {
+            padding: 50px; /* Ulteriore riduzione del padding */
+        }
+    
+        .wp-bio {
+            padding: 15px;
+            font-size: 16px; /* Riduce ulteriormente la dimensione del testo */
+            border-radius: 4px; /* Riduce il raggio dei bordi per un design più compatto */
         }
     }
