@@ -58,7 +58,7 @@ nav ul li a:hover {
 .bio {
     text-align: center;
     padding: 100px 20px;
-    background: url(/img/bg-bio.jpg) fixed;
+    background: url(/assets/img/bg-bio.jpg) fixed;
     color: white;
     font-size: 1.5rem;
     text-shadow: 1px 1px 3px black;
@@ -125,7 +125,7 @@ nav ul li a:hover {
     font-weight: bold;
     background-attachment: fixed;
     background-position:center;
-    background-image: url(img/9023.jpg);
+    background-image: url(/assets/img/9023.jpg);
     padding: 150px;
     margin: 0px;
     font-size: 25px;
