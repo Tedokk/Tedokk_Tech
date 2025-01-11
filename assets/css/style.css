@@ -254,30 +254,36 @@ nav ul li a:hover {
 
     .h1-pro{
         text-align: center;
-        padding: 100px;
+        padding: 40px;
     }
     
     .first-pro{
-        flex: 1 1 30%; 
-        min-width: 250px; 
-        box-sizing: border-box; 
+        display: block;
+        min-width: 250px;  
         text-align: center;
         padding: 20px;
-        margin: 10px;
+        
         background-color: #f9f9f9;
         border-radius: 8px;
     }
 
     .ohana-img{
-        margin-top: -100px;
+       margin-top: -100px;
        width: 350px;
        height: auto;
     }
 
     .ohana-button{
         font-size: 40px;
-        border-radius: 20%;
+        border-radius: 20px;
+        border: 2px solid black;
     }
+
+    .ohana-button:hover{
+        background-color: orangered;
+    }
+    
+   
     
     
     /* page4 contacts*/
