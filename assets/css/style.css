@@ -262,7 +262,6 @@ nav ul li a:hover {
         min-width: 250px;  
         text-align: center;
         padding: 20px;
-        
         background-color: #f9f9f9;
         border-radius: 8px;
     }
@@ -274,7 +273,7 @@ nav ul li a:hover {
     }
 
     .ohana-button{
-        font-size: 40px;
+        font-size: 30px;
         border-radius: 20px;
         border: 2px solid black;
     }
@@ -282,7 +281,29 @@ nav ul li a:hover {
     .ohana-button:hover{
         background-color: orangered;
     }
+
+    .second-pro{
+        display: block;
+        min-width: 250px;  
+        text-align: center;
+        padding: 20px;
+        background-color: #f9f9f9;
+        border-radius: 8px;
+    }
+
+    .calc-img{
+        width: 200px;
+    }
     
+    .calc-button{
+        font-size: 30px;
+        border-radius: 20px;
+        border: 2px solid black;
+    }
+
+    .calc-button:hover{
+        background-color: greenyellow;
+    }
    
     
     
