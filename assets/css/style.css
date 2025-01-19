@@ -122,8 +122,6 @@ nav ul li a:hover {
     }
 
     .text-studies{
-    -webkit-text-stroke-color: black;
-    -webkit-text-stroke-width: 0.2px;
     font-weight: bold;
     background-attachment: fixed;
     background-position:center;
@@ -131,7 +129,7 @@ nav ul li a:hover {
     padding: 150px;
     margin: 0px;
     font-size: 25px;
-    color: white;
+    color: rgba(253, 253, 253, 0.899);
     text-align: center;
     
     }
