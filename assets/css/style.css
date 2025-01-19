@@ -463,12 +463,12 @@ nav ul li a:hover {
             font-size: 0.9rem;
         }
         .my-bio {
-            padding: 50px; /* Ulteriore riduzione del padding */
+            padding: 50px; 
         }
     
         .wp-bio {
             padding: 15px;
-            font-size: 16px; /* Riduce ulteriormente la dimensione del testo */
-            border-radius: 4px; /* Riduce il raggio dei bordi per un design più compatto */
+            font-size: 16px;
+            border-radius: 4px; 
         }
     }
