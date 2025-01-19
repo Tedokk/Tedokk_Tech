@@ -1,6 +1,6 @@
 body{
     font-family: Roboto, sans-serif;
-    background-color: #ffffffa5;
+    background-color: #e6e3e3;
 }
 
 
@@ -16,7 +16,7 @@ body{
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
     padding: 0 30px;
     box-sizing: border-box;
-    background-color: #ffffffa5;
+    background-color: #e6e3e3;
 }
 
 #logo{
