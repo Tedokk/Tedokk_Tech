@@ -27,7 +27,7 @@ body{
 
 nav{
     width: auto;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 nav ul{
@@ -40,7 +40,7 @@ nav ul{
 }
 
 .h-ul li{
-    margin: 0 15px;
+    margin: 0 100px;
 }
 
 nav ul li a {
@@ -303,7 +303,28 @@ nav ul li a:hover {
         background-color: greenyellow;
     }
    
+    .third-pro{
+        display: block;
+        min-width: 250px;  
+        text-align: center;
+        padding: 20px;
+        background-color: #f9f9f9;
+        border-radius: 8px;
+    }
+
+    .cont-img{
+        width: 350px;;
+    }
     
+    .cont-button{
+        font-size: 30px;
+        border-radius: 20px;
+        border: 2px solid black;
+    }
+
+    .cont-button:hover{
+        background-color: red;
+    }
     
     /* page4 contacts*/
 
